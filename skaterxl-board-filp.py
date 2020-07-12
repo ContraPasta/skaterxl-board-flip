@@ -34,7 +34,7 @@ register(
     "python_skaterxl_board_flipper",
     "Flip Board",
     "Flips SkaterXL Board",
-    "ButtsMcButts",
+    "BMcB",
     "Open source (BSD 3-clause license)",
     "2013",
     "<Image>/Filters/Test/SkaterXL Flip Board",
